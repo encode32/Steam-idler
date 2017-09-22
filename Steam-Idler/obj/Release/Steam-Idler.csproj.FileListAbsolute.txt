@@ -1,0 +1,10 @@
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\bin\Release\Steam-Idler.exe.config
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\bin\Release\Steam-Idler.exe
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\bin\Release\Steam-Idler.pdb
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\obj\Release\Steam_Idler.Form1.resources
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\obj\Release\Steam_Idler.Properties.Resources.resources
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\obj\Release\Steam-Idler.csproj.GenerateResource.Cache
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\obj\Release\Steam-Idler.exe
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\obj\Release\Steam-Idler.pdb
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\bin\Release\Steamworks.NET.dll
+c:\users\encode\documents\visual studio 2015\Projects\Steam-Idler\Steam-Idler\obj\Release\Steam-Idler.csprojResolveAssemblyReference.cache
